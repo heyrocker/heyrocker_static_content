@@ -9758,7 +9758,6 @@ input[type="email"]::placeholder {
     margin-left: -40px;
     margin-right: -40px;
     margin-top: 40px;
-    text-align: center;
 }
 .about__profile-picture img {
     min-width: 200px;
